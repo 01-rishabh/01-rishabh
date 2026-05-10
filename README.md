@@ -281,17 +281,6 @@ mindmap
 
 <br/>
 
-<!-- ═══════════════ 3D CONTRIBUTION GRAPH ═══════════════ -->
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" width="28"/> &nbsp;3D Contribution Globe
-
-<div align="center">
-  
-  <img src="https://raw.githubusercontent.com/01-rishabh/01-rishabh/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
-  
-</div>
-
-<br/>
-
 <!-- ═══════════════ ACTIVITY GRAPH ═══════════════ -->
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="28"/> &nbsp;Contribution Activity
 
@@ -319,69 +308,80 @@ mindmap
 <!-- ═══════════════ DIVIDER ═══════════════ -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider"/>
 
-<!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
+<!-- ═══════════════ FEATURED PROJECTS — CUSTOM CARDS (BULLETPROOF) ═══════════════ -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="32"/> &nbsp;Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🦠 [covid-tracker-app](https://github.com/01-rishabh/covid-tracker-app)
+> Real-time COVID-19 statistics tracker with live charts, country breakdowns, and an interactive map. Built during the pandemic to track global trends.
+
+`JavaScript` `React` `Firebase` `Disease.sh API`
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-58a6ff?style=flat-square&labelColor=0d1117)](https://covid-tracker-d40a1.web.app/) [![Stars](https://img.shields.io/github/stars/01-rishabh/covid-tracker-app?style=flat-square&color=58a6ff&labelColor=0d1117)](https://github.com/01-rishabh/covid-tracker-app)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 [amazon-clone](https://github.com/01-rishabh/amazon-clone)
+> Full-featured e-commerce clone with cart management, user authentication, and Stripe payments. Pixel-close to the real thing.
+
+`JavaScript` `React` `Firebase` `Stripe`
+
+[![Stars](https://img.shields.io/github/stars/01-rishabh/amazon-clone?style=flat-square&color=58a6ff&labelColor=0d1117)](https://github.com/01-rishabh/amazon-clone) [![Forks](https://img.shields.io/github/forks/01-rishabh/amazon-clone?style=flat-square&color=58a6ff&labelColor=0d1117)](https://github.com/01-rishabh/amazon-clone)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📝 [keeps-clone](https://github.com/01-rishabh/keeps-clone)
+> A Google Keep–inspired note-taking app with smooth UI, color-tagged notes, and instant search. Clean, minimal, fast.
+
+`JavaScript` `React` `Material-UI`
+
+[![Stars](https://img.shields.io/github/stars/01-rishabh/keeps-clone?style=flat-square&color=58a6ff&labelColor=0d1117)](https://github.com/01-rishabh/keeps-clone) [![Forks](https://img.shields.io/github/forks/01-rishabh/keeps-clone?style=flat-square&color=58a6ff&labelColor=0d1117)](https://github.com/01-rishabh/keeps-clone)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛍️ [DoraEcomBackend](https://github.com/01-rishabh/DoraEcomBackend)
+> Production-style REST API for an e-commerce platform — auth, products, cart, orders. Built with Node + MongoDB.
+
+`Node.js` `Express` `MongoDB` `JWT`
+
+[![Stars](https://img.shields.io/github/stars/01-rishabh/DoraEcomBackend?style=flat-square&color=58a6ff&labelColor=0d1117)](https://github.com/01-rishabh/DoraEcomBackend)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📰 [newsMonkey](https://github.com/01-rishabh/newsMonkey)
+> A clean news aggregator pulling top headlines from around the world by category. Infinite scroll + dark mode.
+
+`JavaScript` `React` `News API`
+
+[![Stars](https://img.shields.io/github/stars/01-rishabh/newsMonkey?style=flat-square&color=58a6ff&labelColor=0d1117)](https://github.com/01-rishabh/newsMonkey)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤫 [secrets.github.io](https://github.com/01-rishabh/secrets.github.io)
+> An anonymous secret-sharing app where users post their thoughts without identity. End-to-end auth, encrypted at rest.
+
+`HTML` `Node.js` `MongoDB`
+
+[![Stars](https://img.shields.io/github/stars/01-rishabh/secrets.github.io?style=flat-square&color=58a6ff&labelColor=0d1117)](https://github.com/01-rishabh/secrets.github.io) [![Forks](https://img.shields.io/github/forks/01-rishabh/secrets.github.io?style=flat-square&color=58a6ff&labelColor=0d1117)](https://github.com/01-rishabh/secrets.github.io)
+
+</td>
+</tr>
+</table>
+
 <div align="center">
-
-  <a href="https://github.com/01-rishabh/covid-tracker-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=01-rishabh&repo=covid-tracker-app&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-  </a>
-  <a href="https://github.com/01-rishabh/amazon-clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=01-rishabh&repo=amazon-clone&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-  </a>
-
-  <a href="https://github.com/01-rishabh/keeps-clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=01-rishabh&repo=keeps-clone&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-  </a>
-  <a href="https://github.com/01-rishabh/DoraEcomBackend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=01-rishabh&repo=DoraEcomBackend&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-  </a>
-
-  <a href="https://github.com/01-rishabh/newsMonkey">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=01-rishabh&repo=newsMonkey&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-  </a>
-  <a href="https://github.com/01-rishabh/secrets.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=01-rishabh&repo=secrets.github.io&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-  </a>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════ DIVIDER ═══════════════ -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider"/>
-
-<!-- ═══════════════ SNAKE EATING CONTRIBUTIONS ═══════════════ -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="32"/> &nbsp;Watch My Contributions Get Eaten
-
-<div align="center">
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/01-rishabh/01-rishabh/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/01-rishabh/01-rishabh/output/github-contribution-grid-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/01-rishabh/01-rishabh/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation"/>
-  </picture>
-  
-</div>
-
-<br/>
-
-<!-- ═══════════════ DIVIDER ═══════════════ -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider"/>
-
-<!-- ═══════════════ SPOTIFY ═══════════════ -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" width="32"/> &nbsp;Currently Vibing To
-
-<div align="center">
-  
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID">
-    <img src="https://novatorem-bay-tau.vercel.app/api/spotify" alt="spotify now playing"/>
-  </a>
-  
-  <br/>
-  <sub>🎧 &nbsp;<i>Code goes better with a soundtrack</i></sub>
-
+  <sub>📂 &nbsp;<a href="https://github.com/01-rishabh?tab=repositories">See all 36 repositories →</a></sub>
 </div>
 
 <br/>
@@ -417,22 +417,6 @@ mindmap
 
 <br/>
 
-<!-- ═══════════════ HOLOPIN BADGES ═══════════════ -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" width="32"/> &nbsp;Holopin Badge Wall
-
-<div align="center">
-  
-  <a href="https://holopin.io/@01-rishabh">
-    <img src="https://holopin.me/01-rishabh" alt="Holopin badges"/>
-  </a>
-  
-  <br/>
-  <sub><i>Earn yours by contributing to <a href="https://hacktoberfest.com">Hacktoberfest</a> and other open-source events</i></sub>
-
-</div>
-
-<br/>
-
 <!-- ═══════════════ DIVIDER ═══════════════ -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider"/>
 
@@ -461,7 +445,7 @@ mindmap
 
 <!-- ═══════════════ EASTER EGG ═══════════════ -->
 <details>
-<summary align="center"><b>🥚 &nbsp;Found a secret? Click here</b></summary>
+<summary><b>🥚 &nbsp;Found a secret? Click here</b></summary>
 
 <br/>
 
